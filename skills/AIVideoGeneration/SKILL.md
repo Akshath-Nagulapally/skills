@@ -9,10 +9,6 @@ metadata:
 
 Use this skills whenever you are dealing AI generated video
 
-## Captions
-
-When dealing with captions or subtitles, load the [./rules/subtitles.md](./rules/subtitles.md) file for more information.
-
 ## How to use
 
 Read individual rule files for detailed explanations and code examples:
